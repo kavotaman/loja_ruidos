@@ -10,8 +10,8 @@ $color--default: #3a3a3a;
 $color--light: lighten($color--default, 65%);
 $color--primary: #429bfc;
 $color--secondary: #429bfc;
-$color--background: #f8faff;
-// $color--background: #ffffff;
+// $color--background: #f8faff;
+$color--background: #000000;
 
 $size--unit: 8px;
 
@@ -96,10 +96,10 @@ body {
   width: 100%;
   display: flex;
   align-items: center;
-  margin-bottom: $size--unit * 6;
-  padding-top: $size--unit * 4;
-  padding-bottom: $size--unit * 4;
-  border-bottom: 1px solid $color--light;
+  margin-bottom: $size--unit * 1;
+  padding-top: $size--unit * 1;
+  padding-bottom: $size--unit * 1;
+  // border-bottom: 1px solid $color--light;
 
   &__container {
     display: flex;
@@ -115,7 +115,7 @@ body {
   }
 
   &__logo {
-    max-height: $size--unit*4;
+    max-height: $size--unit*17;
     margin-right: $size--unit*1;
   }
 
@@ -204,7 +204,7 @@ body {
 
   &__image {
     flex: 1;
-    height: 100%;
+    height: auto;
     width: 100%;
     max-width: 500px;
     max-height: 400px;
@@ -298,11 +298,11 @@ body {
 .go-back {
     display: flex;
     color: white;
-    padding-top: $size--unit*3;
-    padding-bottom: $size--unit*3;
-    background-color: #888f91;
+    padding-top: $size--unit*1;
+    padding-bottom: $size--unit*1;
+    background-color: #000000;
     box-shadow: 0px 0px 10px transparentize($color--default, 0.8);
-    border-bottom: 1px solid darken(#888f91, 5%);
+    // border-bottom: 1px solid darken(#888f91, 5%);
 
     &__container {
         @include fit-to-layout-and-center;
@@ -324,19 +324,20 @@ body {
 
         a {
             display: inline-block;
-            background-color: #f6e770;
-            box-shadow: 0px 3px 16px darken(#888f91, 5%);
+            background-color: #56756f;
+            // box-shadow: 0px 3px 16px darken(#888f91, 5%);
             &:hover {
                 transition: background-color 0.25s;
-                background-color: darken(#f6e770, 5%);
+                background-color: darken(#3f3f3f, 5%);
             }
             padding: $size--unit*1;
             padding-left: $size--unit*3;
             padding-right: $size--unit*3;
-            color: $color--default;
+            color: #e3e3e3;
             text-decoration: none;
             border-radius: 4px;
-            text-transform: uppercase;
+            font-weight: bold;
+            // text-transform: uppercase;
         }
     }
 }
