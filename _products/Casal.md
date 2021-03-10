@@ -1,9 +1,8 @@
 ---
-identifier: BA_CA
+identifier: BA_CASAL
 name: Bastidor, Casal
-price: 99.95
+price: 499.95
 image: /assets/images/Casal1.jpg
-categories: 
-  - bastidor
+categories: [bastidor]
 ---
 Bastidor belíssimo para os casais desse mundo bonito.

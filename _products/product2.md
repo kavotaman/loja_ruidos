@@ -1,8 +1,8 @@
 ---
-identifier: BA_MV
+identifier: BA_VIOLAO
 name: Bastidor, Violao
-price: 64.95
+price: 499.95
 image: /assets/images/MinViolao2.jpg
-category: bastidor
+categories: [bastidor]
 ---
 Violãozinho minimalista show de bola.

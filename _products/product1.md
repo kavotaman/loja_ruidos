@@ -1,8 +1,8 @@
 ---
-identifier: BA_MT
+identifier: BA_TAPE
 name: Bastidor, Mr Tape
-price: 79.95
+price: 499.95
 image: /assets/images/MrTape1.jpg
-category: bastidor
+categories: [bastidor]
 ---
 Bastidor maroto dum bróder com uma fita K7 como rosto.

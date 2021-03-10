@@ -4,7 +4,7 @@
         <input type="hidden" name="tipo" value="CBR" />
         <input type="hidden" name="moeda" value="BRL" />
         <input type="hidden" name="item_id" value="{{ product.identifier }}" />
-        <input type="hidden" name="item_descr" value="{{ product.content | remove: '<p>' | remove: '</p>' }}" />
+        <input type="hidden" name="item_descr" value="{{ product.name }}" />
         <input type="hidden" name="item_quant" value="1" />
         <input type="hidden" name="item_valor" value="{{ product.price }}" />
         <input type="hidden" name="frete" value="0" />

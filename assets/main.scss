@@ -6,12 +6,11 @@
 @import url("https://fonts.googleapis.com/css?family=Muli:400,700&display=swap");
 
 // Variables
-$color--default: #3a3a3a;
+$color--default: #d3d3d3;
 $color--light: lighten($color--default, 65%);
-$color--primary: #429bfc;
+$color--primary: #f0f0f0;
 $color--secondary: #429bfc;
-// $color--background: #f8faff;
-$color--background: #000000;
+$color--background: #001510;
 
 $size--unit: 8px;
 
@@ -96,10 +95,11 @@ body {
   width: 100%;
   display: flex;
   align-items: center;
-  margin-bottom: $size--unit * 1;
-  padding-top: $size--unit * 1;
-  padding-bottom: $size--unit * 1;
+  // margin-bottom: $size--unit * 1;
+  // padding-top: $size--unit * 1;
+  // padding-bottom: $size--unit * 1;
   // border-bottom: 1px solid $color--light;
+  background-color: #000f0c;
 
   &__container {
     display: flex;

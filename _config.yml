@@ -30,6 +30,7 @@ github_username:
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-category-pages
 
 permalink: /:year/:month/:day/:title:output_ext
@@ -55,3 +56,5 @@ permalink: /:year/:month/:day/:title:output_ext
 
 collections:
   - products
+
+paginate: 9

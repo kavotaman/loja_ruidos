@@ -1,8 +1,8 @@
 ---
-identifier: BA_MG
+identifier: BA_GUITA
 name: Bastidor, Guitarra
-price: 99.95
+price: 499.95
 image: /assets/images/MinGuita1.jpg
-category: bastidor
+categories: [bastidor]
 ---
 Guitarrinha minimalista toda xante.
