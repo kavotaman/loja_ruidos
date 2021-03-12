@@ -2,7 +2,17 @@
   link: /sobre/
 - name: Camisetas
   link: /camiseta/
-- name: Bastidores
+- name: Decoração
   link: /bastidor/
 - name: Perecotecos
   link: /perecoteco/
+- name: Produtos
+  link: /#
+  dropdown:
+    - name: Camisetas
+      link: /camiseta/
+    - name: Decoração
+      link: /bastidor/
+    - name: Perecotecos
+      link: /perecoteco/
+

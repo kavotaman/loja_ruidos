@@ -1,9 +1,15 @@
-<div class="product">
-  <div class="product__information">
-    <h2 class="product__title">{{ product.name }}</h2>
-    <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
+<div class="column">
+    <div class="card">
+    <h2 >{{ product.name }}</h2>
+    <div class="w3-content w3-display-container">
+        <img class="mySlides" src="{{ product.image1 }}" style="width:100%">
+        <img class="mySlides" src="{{ product.image2 }}" style="width:100%">
+        <img class="mySlides" src="{{ product.image3 }}" style="width:100%">
+      
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
     <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
     {% include product-definition.html %}
+    </div>
   </div>
-  <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
-</div>
