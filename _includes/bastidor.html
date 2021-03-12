@@ -1,9 +1,0 @@
-
-  <div class="column">
-    <div class="card">
-    <h2 >{{ product.name }}</h2>
-    <img src="{{ product.image }}" alt="{{ product.name }} product image" class="image">
-    <p class="">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
-    {% include product-definition.html %}
-    </div>
-  </div>

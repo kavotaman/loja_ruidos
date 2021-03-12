@@ -5,5 +5,5 @@
 layout: default
 ---
 {% for product in site.perecoteco %}
-  {% include perecoteco.html %}
+  {% include products.html %}
 {% endfor %}

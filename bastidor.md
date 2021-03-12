@@ -5,5 +5,5 @@
 layout: default
 ---
 {% for product in site.bastidor %}
-  {% include bastidor.html %}
+  {% include products.html %}
 {% endfor %}

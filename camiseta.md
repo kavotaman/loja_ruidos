@@ -2,5 +2,5 @@
 layout: default
 ---
 {% for product in site.camiseta %}
-  {% include camiseta.html %}
+  {% include products.html %}
 {% endfor %}
