@@ -23,7 +23,7 @@ email: ruidospodcast@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Loja humilde de produtos de caráter musical.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "lojanoise.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
@@ -31,9 +31,7 @@ github_username:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-category-pages
-
-permalink: /:year/:month/:day/:title:output_ext
+permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -55,6 +53,6 @@ permalink: /:year/:month/:day/:title:output_ext
 #   - vendor/ruby/
 
 collections:
-  - products
-
-paginate: 9
+  - bastidor
+  - camiseta
+  - perecoteco

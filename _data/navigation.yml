@@ -1,0 +1,8 @@
+- name: Sobre Nós
+  link: /sobre/
+- name: Camisetas
+  link: /camiseta/
+- name: Bastidores
+  link: /bastidor/
+- name: Perecotecos
+  link: /perecoteco/

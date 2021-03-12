@@ -4,6 +4,6 @@
 
 layout: default
 ---
-{% for product in site.products %}
-  {% include product.html %}
+{% for product in site.camiseta %}
+  {% include camiseta.html %}
 {% endfor %}

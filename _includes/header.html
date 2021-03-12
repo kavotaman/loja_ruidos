@@ -1,16 +1,16 @@
-<div class="go-back">
-    <div class="go-back__container">
-        <a href="https://ruidospodcast.com.br">RuidosPodcast.com.br</a>
-        <!-- <span>This is a Snipcart powered demonstration store.</span> -->
-    </div>
-</div>
-
 <header class="header">
     <div class="header__container">
-        <a class="header__branding" href="/">
-            <img src="/assets/images/noise_logo.png" alt="" class="header__logo">
-            <!-- <span class="header__title">{{ site.title }}</span> -->
-        </a>
+
+        <ul class="topnav">
+            <li><a class="header__branding" href="/">
+                    <img src="/assets/images/noise_logo.png" alt="" class="header__logo">
+                    <!-- <span class="header__title">{{ site.title }}</span> -->
+                </a></li>
+            {% for item in site.data.navigation %}
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endfor %}
+            <li style="background-color: #56756f;"><a href="https://ruidospodcast.com.br">Ruídos Podcast</a></li>
+        </ul>
         <div class="header__actions">
             <form target="pagseguro" action="https://pagseguro.uol.com.br/security/webpagamentos/webpagto.aspx"
                 method="post">
