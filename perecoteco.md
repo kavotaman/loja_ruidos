@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+# Perecotecos
+
 {% for product in site.perecoteco %}
   {% include products.html %}
 {% endfor %}
