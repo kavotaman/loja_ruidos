@@ -361,3 +361,55 @@ ul.topnav li.right {float: right;}
 }
 
 .mySlides {display: none;}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 180px;
+  background-color: #000f0c;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  padding: 12px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 180px;
+  padding: 1px 1px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 680px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+    font-size: smaller;
+    padding: 4px;
+  }
+}
