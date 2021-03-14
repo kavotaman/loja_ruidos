@@ -1,4 +1,5 @@
 ---
+layout: product
 identifier: BA_VIOLAO
 name: Bastidor, Violao
 price: 499.95

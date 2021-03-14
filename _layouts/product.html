@@ -1,0 +1,83 @@
+---
+layout: default
+---
+    <div class="card">
+    <h1>{{ page.name }}</h1>
+    <div class="slideshow-container" id="{{ page.identifier }}">
+
+      <!-- Full-width images with number and caption text -->
+          <div class="mySlides">
+              <img src="{{ page.image1 }}" style="width:100%">
+          </div>
+     
+          <div class="mySlides">
+              <img src="{{ page.image2 }}" style="width:100%">
+          </div>
+     
+          <div class="mySlides">
+             <img src="{{ page.image3 }}" style="width:100%">
+          </div>
+     
+      <!-- Next and previous buttons -->
+      <a class="prev" onclick="plusSlides(-1, '{{ page.identifier }}', 'firstSliderIndex')">&#10094;</a>
+       <a class="next" onclick="plusSlides(1, '{{ page.identifier }}', 'firstSliderIndex')">&#10095;</a>
+       <br />
+       <!-- The dots/circles -->
+     <div style="text-align:center">
+       <span class="dot" onclick="currentSlide(1, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+       <span class="dot" onclick="currentSlide(2, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+       <span class="dot" onclick="currentSlide(3, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+     </div>
+     </div>
+     <p>{{ content }}</p>
+     <div>
+    <h3>R$ {{ page.price }}</h3>
+    <form target="pagseguro" method="post" action="https://pagseguro.uol.com.br/checkout/checkout.jhtml">
+        <input type="hidden" name="email_cobranca" value="ruidospodcast@gmail.com" />
+        <input type="hidden" name="tipo" value="CBR" />
+        <input type="hidden" name="moeda" value="BRL" />
+        <input type="hidden" name="item_id" value="{{ page.identifier }}" />
+        <input type="hidden" name="item_descr" value="{{ page.name }}" />
+        <input type="hidden" name="item_quant" value="1" />
+        <input type="hidden" name="item_valor" value="{{ page.price }}" />
+        <input type="hidden" name="frete" value="0" />
+        <input type="hidden" name="peso" value="0" />
+        <input type="image" name="submit" style="height: 25px;width: auto;"
+            src="/assets/images/botaopags.jpg"
+            alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+    </form>
+</div>
+    </div>
+<script>
+      var indexes = {
+          firstSliderIndex: 1,
+          secondSliderIndex: 2,
+      };
+      showSlides(indexes.firstSliderIndex, '{{ page.identifier }}', 'firstSliderIndex');
+      // Next/previous controls
+      function plusSlides(n, id, index) { // n - number of slide, id - container id, index - current slide number in slider
+          showSlides(indexes[index] += n, id, index);
+      }
+      // Thumbnail image controls
+      function currentSlide(n, id, index) {
+          showSlides(indexes[index] = n, id, index);
+      }
+  
+      function showSlides(n, id, index) {
+          var i;
+          var slides = document.querySelectorAll(`#${id} .mySlides`);
+          var dots = document.querySelectorAll(`#${id} .dot`);
+          if (n > slides.length) {
+              indexes[index] = 1;
+          }
+          if (n < 1) {indexes[index] = slides.length}
+          for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";
+          }
+          for (i = 0; i < dots.length; i++) {
+              dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[indexes[index]-1].style.display = "block";
+          dots[indexes[index]-1].className += " active";
+      }
+  </script>

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="column">
+
+  <div class="column">
+    {{ page.content }}
+  </div>
+
+  {% assign products = site.products %}
+
+  {% for product in products %}
+  <div class="column">
+
+    <a href="{{ product.url | relative_url }}">
+
+      <div class="card">
+
+        {% if product.image %}
+        <div class="card">
+          <figure class="image">
+            <img src="{{ product.image }}" alt="{{ product.title }}" />
+          </figure>
+        </div>
+        {% endif %}
+        <div class="card-content">
+
+          <p class="title is-4">{{ product.name }}</h2>
+                    <p class="title is-5 has-text-right">{{ product.price }}</p>
+
+        </div>
+      </div>
+
+    </a>
+
+  </div>
+{% endfor %}
+</div>
+
+

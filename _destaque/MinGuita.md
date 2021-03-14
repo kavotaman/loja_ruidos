@@ -1,4 +1,5 @@
 ---
+layout: product
 identifier: BA_GUITA
 name: Bastidor, Guitarra
 price: 499.95

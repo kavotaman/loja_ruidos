@@ -1,4 +1,5 @@
 ---
+layout: product
 identifier: BA_CASAL
 name: Bastidor, Casal
 price: 499.95

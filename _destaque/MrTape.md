@@ -1,4 +1,5 @@
 ---
+layout: product
 identifier: BA_TAPE
 name: Bastidor, Mr Tape
 price: 499.95

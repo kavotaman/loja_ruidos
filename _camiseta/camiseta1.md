@@ -1,4 +1,5 @@
 ---
+layout: product
 identifier: CA_1
 name: Camiseta, 1
 price: 499.95
