@@ -2,7 +2,6 @@
 layout: default
 ---
     <div class="card">
-    <h1>{{ page.name }}</h1>
     <div class="slideshow-container" id="{{ page.identifier }}">
 
       <!-- Full-width images with number and caption text -->
@@ -43,7 +42,8 @@ layout: default
      </div>
      <p>{{ content }}</p>
      <div>
-    <h3>R$ {{ page.price }}</h3>
+    <h2>R$ {{ page.price }}</h2>
+    <div style="text-align: center;">
     <form target="pagseguro" method="post" action="https://pagseguro.uol.com.br/checkout/checkout.jhtml">
         <input type="hidden" name="email_cobranca" value="ruidospodcast@gmail.com" />
         <input type="hidden" name="tipo" value="CBR" />
@@ -54,10 +54,10 @@ layout: default
         <input type="hidden" name="item_valor" value="{{ page.price }}" />
         <input type="hidden" name="frete" value="0" />
         <input type="hidden" name="peso" value="0" />
-        <input type="image" name="submit" style="height: 25px;width: auto;"
+        <input type="image" name="submit" style="height: 35px;width: auto;"
             src="/assets/images/botaopags.jpg"
             alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-    </form>
+    </form></div>
 </div>
     </div>
 <script>

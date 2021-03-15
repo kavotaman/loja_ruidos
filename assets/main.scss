@@ -91,25 +91,30 @@ body {
 }
 
 // Components
-
 h1 {
   font-size: x-large;
   margin: 30px 0;
   text-align: center;
-}
+  background-color: #DDD8B8;
+  color: $color--sec;
+  padding: 9px;
+  font-family: Verdana, Helvetica, sans-serif;
+  }
 
 h2 {
   background-color: #DDD8B8;
   color: $color--sec;
-  padding: 15px;
+  padding: 9px;
   font-family: Verdana, Helvetica, sans-serif;
-  font-size: larger;
+  font-size: x-large;
   text-align: center;
 }
 
 h3 {
   font-size: x-large;
-  
+  text-align: center; 
+  color: #DDD8B8;
+  text-decoration: none;
 }
 
 h4 {
