@@ -2,7 +2,7 @@
 layout: product
 identifier: BA_VIOLAO
 name: Bastidor, Violao
-name2: Violao
+name2: Violão
 name3: Bastidor Bordado à Mão
 price: 99.95
 image1: https://1.bp.blogspot.com/-Y5w0MjXlb-k/YE6YbkmjbUI/AAAAAAAAIDA/6IjWR-2-Go8MUTrhdKUL0WBbhz75_uLPwCLcBGAsYHQ/s0/violao1.jpg
