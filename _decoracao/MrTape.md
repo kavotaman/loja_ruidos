@@ -2,6 +2,8 @@
 layout: product
 identifier: BA_TAPE
 name: Bastidor, Mr Tape
+name2: Mr Tape
+name3: Bastidor Bordado à Mão
 price: 119.95
 image1: https://1.bp.blogspot.com/-0vKOFVjY2kI/YE6YVfJmreI/AAAAAAAAICY/ILRjnFu_mN4Rba9jtXIYJKCYkb3f3P5QACLcBGAsYHQ/s0/mrtape1.jpg
 image2: https://1.bp.blogspot.com/-HkDehIL--rg/YE6YVlv0QYI/AAAAAAAAICg/O4Rf4oF6zo4q33l2GViXTsMSU8-NAHA_QCLcBGAsYHQ/s0/mrtape2.jpg

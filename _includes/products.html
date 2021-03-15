@@ -1,6 +1,5 @@
 <div class="column">
     <div class="card">
-    <h3>{{ product.name }}</h3>
     <div class="slideshow-container" id="{{ product.identifier }}">
 
       <!-- Full-width images with number and caption text -->
@@ -27,6 +26,8 @@
        <span class="dot" onclick="currentSlide(3, '{{ product.identifier }}', 'firstSliderIndex')"></span>
      </div>
      </div>
+          <div><h5>{{ product.name2 }}
+          <br>{{ product.name3 }}</h5></div>
     <div><h2>R$ {{ product.price }}</h2></div>
     </div>
  {% include script %} 
