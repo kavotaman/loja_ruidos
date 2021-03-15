@@ -107,6 +107,23 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-size: x-large;
+  
+}
+
+h4 {
+  background-color: black;
+  color: #DDD8B8;
+  font-size: large;
+  text-transform: uppercase;
+  padding: 3px;
+  text-align: center;
+  border-color: red;
+  border-style: double;
+  border-width: 2px;
+}
+
 .header {
   width: 100%;
   display: flex;
@@ -282,34 +299,34 @@ h2 {
 }
 
 
-ul {
-  display: flex;
-  list-style-type: none;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  margin-left: auto;
-}
+// ul {
+//   display: flex;
+//   list-style-type: none;
+//   padding: 0;
+//   overflow: hidden;
+//   background-color: #333;
+//   margin-left: auto;
+// }
 
-li {
-  float: left;
-}
+// li {
+//   float: left;
+// }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
+// li a {
+//   display: block;
+//   color: white;
+//   text-align: center;
+//   padding: 14px 16px;
+//   text-decoration: none;
+// }
 
-li a:hover:not(.active) {
-  background-color: #111;
-}
+// li a:hover:not(.active) {
+//   background-color: #111;
+// }
 
-.active {
-  background-color: #4CAF50;
-}
+// .active {
+//   background-color: #4CAF50;
+// }
 
 /* Create three equal columns that floats next to each other */
 .column {

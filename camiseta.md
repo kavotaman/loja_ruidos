@@ -3,10 +3,5 @@ layout: default
 ---
 # Camisetas
 
-{% for product in site.camiseta %}
-<div>
-  <a href="{{ product.url | relative_url }}">
-  {% include products.html %}
-  </a>
-</div>
-{% endfor %}
+## Ainda não há camisetas disponíveis, mas já já elas chegam!
+

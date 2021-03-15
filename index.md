@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-![Banner](/assets/images/banner_index.jpg){: style="width: 100%;"}
+![Banner](https://1.bp.blogspot.com/-CAVEZkFt2Os/YE6YdesajJI/AAAAAAAAIDQ/VzAnVXCblfUcXBRnvCsrEr7lVzco9W36ACLcBGAsYHQ/s0/banner_index.jpg){: style="width: 100%;"}
 
-## Produtos em destaque
+## Preços promocionais de lançamento!
 
 {% for product in site.destaque %}
 <div>

@@ -17,6 +17,15 @@ layout: default
           <div class="mySlides">
              <img src="{{ page.image3 }}" style="width:100%">
           </div>
+          <div class="mySlides">
+             <img src="{{ page.image4 }}" style="width:100%">
+          </div>
+          <div class="mySlides">
+             <img src="{{ page.image5 }}" style="width:100%">
+          </div>
+          <div class="mySlides">
+             <img src="{{ page.image6 }}" style="width:100%">
+          </div>
      
       <!-- Next and previous buttons -->
       <a class="prev" onclick="plusSlides(-1, '{{ page.identifier }}', 'firstSliderIndex')">&#10094;</a>
@@ -27,6 +36,9 @@ layout: default
        <span class="dot" onclick="currentSlide(1, '{{ page.identifier }}', 'firstSliderIndex')"></span>
        <span class="dot" onclick="currentSlide(2, '{{ page.identifier }}', 'firstSliderIndex')"></span>
        <span class="dot" onclick="currentSlide(3, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+       <span class="dot" onclick="currentSlide(4, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+       <span class="dot" onclick="currentSlide(5, '{{ page.identifier }}', 'firstSliderIndex')"></span>
+       <span class="dot" onclick="currentSlide(6, '{{ page.identifier }}', 'firstSliderIndex')"></span>
      </div>
      </div>
      <p>{{ content }}</p>
