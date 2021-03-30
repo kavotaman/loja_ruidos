@@ -5,6 +5,7 @@ name: Bastidor, Guitarra
 name2: Guitarra Les Paul
 name3: Bastidor Bordado à Mão
 price: 99.95
+peso: 300
 image1: https://1.bp.blogspot.com/-T8uXcy-EL18/YE6YSXMRZ3I/AAAAAAAAIBs/NS2Ya12b9k4n8Uktp6zVrFPfqdi-l7ySACLcBGAsYHQ/s0/les1.jpg
 image2: https://1.bp.blogspot.com/-E3jlYlNeIXU/YE6YSdriLVI/AAAAAAAAIBw/WQ2SI60wRWIJ_wwalySej-RhNocu4Z4rgCLcBGAsYHQ/s0/les2.jpg
 image3: https://1.bp.blogspot.com/-OSrUfEO3Pr0/YE6YSYi4m3I/AAAAAAAAIB0/uappBD7ey3sk-Jnr0cBFujSGtvCzRNWxACLcBGAsYHQ/s0/les3.jpg

@@ -5,8 +5,9 @@ name: Bastidor, Violao
 name2: Violão
 name3: Bastidor Bordado à Mão
 price: 99.95
-image1: https://1.bp.blogspot.com/-Y5w0MjXlb-k/YE6YbkmjbUI/AAAAAAAAIDA/6IjWR-2-Go8MUTrhdKUL0WBbhz75_uLPwCLcBGAsYHQ/s0/violao1.jpg
-image2: https://1.bp.blogspot.com/-mj-C0ZoDG6g/YE6YbU8l0sI/AAAAAAAAIC4/2YkzQfmeVQo5B9uHhZTga_a2IUVp0_dOACLcBGAsYHQ/s0/violao2.jpg
+peso: 300
+image2: https://1.bp.blogspot.com/-Y5w0MjXlb-k/YE6YbkmjbUI/AAAAAAAAIDA/6IjWR-2-Go8MUTrhdKUL0WBbhz75_uLPwCLcBGAsYHQ/s0/violao1.jpg
+image1: https://1.bp.blogspot.com/-mj-C0ZoDG6g/YE6YbU8l0sI/AAAAAAAAIC4/2YkzQfmeVQo5B9uHhZTga_a2IUVp0_dOACLcBGAsYHQ/s0/violao2.jpg
 image3: https://1.bp.blogspot.com/-9H3MTGh1woo/YE6YbbGWb1I/AAAAAAAAIC8/xjYtucEPzV0uuNZJOo6YC6AkWC1W73CcgCLcBGAsYHQ/s0/violao3.jpg
 image4: https://1.bp.blogspot.com/-GIrjiXTyI9g/YE6YcFFsLGI/AAAAAAAAIDE/EJWDV8J-y8c4YTgikE36xWCaN9agJxgOQCLcBGAsYHQ/s0/violao5.jpg
 image5: https://1.bp.blogspot.com/-5eQ56FEvDdA/YE6YchU9ExI/AAAAAAAAIDI/1UmrB5iKb_wpVj6e6_qUd4Paq08HsBi2wCLcBGAsYHQ/s0/violao6.jpg

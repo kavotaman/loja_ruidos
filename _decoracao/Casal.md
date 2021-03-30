@@ -5,6 +5,7 @@ name: Bastidor, Casal
 name2: Casal
 name3: Bastidor Bordado à Mão
 price: 119.95
+peso: 300
 image1: https://1.bp.blogspot.com/-eR5HiotZKF4/YE6YT5c6fjI/AAAAAAAAICE/6LzdWscH1mAIZX8SrOuv3TZHU4kTAKA1QCLcBGAsYHQ/s0/Casal1.jpg
 image2: https://1.bp.blogspot.com/-lAeqoeCplRA/YE6YUEuHzwI/AAAAAAAAICI/5NV5GGNBOvYsrbTDmMzJwSFgvGKoOVvoQCLcBGAsYHQ/s0/Casal2.jpg
 image3: https://1.bp.blogspot.com/-PHAgpsOOYr0/YE6YUi2UAiI/AAAAAAAAICM/fTyOv61lXPcC3w57JCTcEspCAkT8YgnzwCLcBGAsYHQ/s0/Casal3.jpg
