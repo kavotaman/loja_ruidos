@@ -42,7 +42,7 @@ layout: default
      </div>
      <p>{{ content }}</p>
      <div>
-    <h2>R$ {{ page.price }}</h2>
+    <h2>R$ {{ page.price }} + frete</h2>
     <div style="text-align: center;">
     <form target="pagseguro" method="post" action="https://pagseguro.uol.com.br/checkout/checkout.jhtml">
         <input type="hidden" name="email_cobranca" value="ruidospodcast@gmail.com" />
