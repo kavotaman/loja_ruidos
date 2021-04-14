@@ -68,3 +68,6 @@ collections:
   perecoteco:
     output: true
     layout: product
+  ebook:
+    output: true
+    layout: ebook
