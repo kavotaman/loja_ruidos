@@ -1,8 +1,8 @@
 ---
 layout: ebook
 identifier: Lopes_ComoAprendem
-name: Lopes, Como As Crianças Aprendem Música
-name2: Como As Crianças Aprendem Música
+name: Lopes, Como As Crianças Aprendem Música?
+name2: Como As Crianças Aprendem Música?
 name3: Nadja Lopes
 image1: https://1.bp.blogspot.com/-PPh_Qfbpt9M/YHYrZoZznDI/AAAAAAAAILg/kEJPKd5GHnwCVLGIs5VL9nJZbXt0B0urQCLcBGAsYHQ/s706/Como%2Bas%2Bcrian%25C3%25A7as%2Baprendem%2Bm%25C3%25BAsica_CAPA.jpg
 image2: https://www.dropbox.com/s/q4hjtlb56lq8wt1/Como%20as%20crian%C3%A7as%20aprendem%20m%C3%BAsica%20-%20Nadja%20Lopes.pdf.pdf?dl=0&fbclid=IwAR2QbWBb4KyQ0xQFuHFdfg7vBPMiChAHynDJVPswZOmUkP7E1tIWu-ntjk0
