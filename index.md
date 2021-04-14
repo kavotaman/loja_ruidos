@@ -5,7 +5,7 @@ layout: default
 
 ## Preços promocionais de lançamento!
 
-## Não deixem de checar os [Ebooks gratuitos](https://lojanoise.netlify.app/ebook/){: style="color: black; text-decoration: none; text-transform: uppercase; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: large;"}!
+## Não deixem de checar os [E-books gratuitos](https://lojanoise.netlify.app/ebook/){: style="color: black; text-decoration: none; text-transform: uppercase; font-weight: bold; font-family: Arial, Helvetica, sans-serif; font-size: large;"}!
 
 {% for product in site.destaque %}
 <div>
