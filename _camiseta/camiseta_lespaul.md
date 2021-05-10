@@ -13,7 +13,7 @@ image4: https://1.bp.blogspot.com/-VScJVP1uD-g/YJmWR0exPzI/AAAAAAAAAp4/32XnszBRR
 image5: https://1.bp.blogspot.com/-Vw8UcnEDZCg/YJmWR3GoyHI/AAAAAAAAAp8/vaZ9FaaldL0_uNJHuKhUu-8b2bROQ9e4ACNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B5.jpg
 image6: https://1.bp.blogspot.com/-Yr7MTF9oesY/YJmWR_c_S5I/AAAAAAAAAqA/D4XNQ9VnuCIMCTFGq7QB3IyB9lbZQ6rygCNcBGAsYHQ/s1920/camisetas%2Bles%2Bpaul%2B6.jpg
 ---
-# Les Paul - Camiseta Bordada à Mão
+# Les Paul - Camiseta Bordada à Mão (Preta ou Branca - M)
 
 Não é preciso muito para reconhecer um dos modelos de guitarra mais amados e conhecidos de todos os tempos. Usado por astros como Slash, Jimmy Page, Pete Townshed e muitos outros, a guitarra Les Paul é o sonho de consumo de muitos músicos de todo o mundo e você pode tê-lo no seu look com essa camiseta bordada à mão com desenho exclusivo da NOISE, o presente perfeito para qualquer gig!
 

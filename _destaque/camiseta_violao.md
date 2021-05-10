@@ -13,7 +13,7 @@ image4: https://1.bp.blogspot.com/-ZEA-Gezc9oI/YJmWTElI-LI/AAAAAAAAAqQ/6QyzIymp7
 image5: https://1.bp.blogspot.com/-QwpqGebxdL4/YJmWTJ9Ht8I/AAAAAAAAAqU/Nzn7hpIu2NIyA8TxsKQHNWYDVw-Fjy4BgCNcBGAsYHQ/s1431/camiseta%2Bviolao%2B5.jpg
 image6: https://1.bp.blogspot.com/-8miJL1P1was/YJmWTKvj1PI/AAAAAAAAAqY/6pSEIkp_fsYofd5ybTrRz5Wfu3hlV88CACNcBGAsYHQ/s1920/camisetas%2Bviolao%2B6.jpg
 ---
-# Violão - Camiseta Bordada à Mão
+# Violão - Camiseta Bordada à Mão (Preta ou Branca - M)
 
 Se você, assim como muitos, se apaixonou pela música dedilhando as 6 cordas de um violão ou adora o som doce desse instrumento, não pode deixar de levar para casa essa arte exclusiva da **NOISE** para compor o seu look do dia a dia! O desenho minimalista dá um charme especial e exclusivo para a peça e o torna o presente perfeito para todos os violonistas!
 
