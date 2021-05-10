@@ -5,7 +5,7 @@ layout: default
 {% for product in site.camiseta %}
 <div>
   <a href="{{ product.url | relative_url }}">
-  {% include products_camiseta.html %}
+  {% include products.html %}
   </a>
 </div>
 {% endfor %}
