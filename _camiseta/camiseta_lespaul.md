@@ -1,5 +1,5 @@
 ---
-layout: product_camiseta
+layout: product
 identifier: CA_LesP
 name: Camiseta, Les Paul
 name2: Camiseta
