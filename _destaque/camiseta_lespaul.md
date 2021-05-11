@@ -6,7 +6,7 @@ name2: Camiseta
 name3: Camiseta Bordada à Mão
 price: 99.95
 peso: 300
-image1: https://1.bp.blogspot.com/-_mfC-TqhSgA/YJmWRnDd2XI/AAAAAAAAAp0/yATEu1AH6fMjA74rFtum0jxmwqqQN0mZgCNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B3.jpg
+image1: https://1.bp.blogspot.com/-_mfC-TqhSgA/YJmWRnDd2XI/AAAAAAAAAp0/yATEu1AH6fMjA74rFtum0jxmwqqQN0mZgCNcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B3.jpg
 image2: https://1.bp.blogspot.com/-SiJz38tMiic/YJsUREJFrbI/AAAAAAAAImY/LbWSwbXukBYsOCXCiizC4Nec7U4Aei0hgCLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B1_1.jpg
 image3: https://1.bp.blogspot.com/-5Y7HOgnrTqc/YJsURL6bR7I/AAAAAAAAImg/KcKhVIjMfPkMCxOCIDGj7jLnUQXlqmiiACLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B2_1.jpg
 image4: https://1.bp.blogspot.com/-xAvTgCmCP-c/YJsURMsBw7I/AAAAAAAAImc/N3AsIGghDaEOYaUvnwV2tU4OsXlcEooJACLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B4_1.jpg
