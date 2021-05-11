@@ -6,11 +6,11 @@ name2: Camiseta
 name3: Camiseta Bordada à Mão
 price: 99.95
 peso: 300
-image1: https://1.bp.blogspot.com/-136Ug_Xf0-Y/YJmWRT0rFbI/AAAAAAAAAps/A5xazSnHuuMkgRh8m-EwsiE7Om51F2a3wCNcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B1.jpg
-image2: https://1.bp.blogspot.com/-R1NR3yb8uEo/YJmWRivYabI/AAAAAAAAApw/_G-_9U-uIzUX1tO6Y785uD7KkE7WPEkEACNcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B2.jpg
-image3: https://1.bp.blogspot.com/-_mfC-TqhSgA/YJmWRnDd2XI/AAAAAAAAAp0/yATEu1AH6fMjA74rFtum0jxmwqqQN0mZgCNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B3.jpg
-image4: https://1.bp.blogspot.com/-VScJVP1uD-g/YJmWR0exPzI/AAAAAAAAAp4/32XnszBRRoczs50Lck6dWR1RyPF5_LhjwCNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B4.jpg
-image5: https://1.bp.blogspot.com/-Vw8UcnEDZCg/YJmWR3GoyHI/AAAAAAAAAp8/vaZ9FaaldL0_uNJHuKhUu-8b2bROQ9e4ACNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B5.jpg
+image1: https://1.bp.blogspot.com/-_mfC-TqhSgA/YJmWRnDd2XI/AAAAAAAAAp0/yATEu1AH6fMjA74rFtum0jxmwqqQN0mZgCNcBGAsYHQ/s320/camiseta%2Bles%2Bpaul%2B3.jpg
+image2: https://1.bp.blogspot.com/-SiJz38tMiic/YJsUREJFrbI/AAAAAAAAImY/LbWSwbXukBYsOCXCiizC4Nec7U4Aei0hgCLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B1_1.jpg
+image3: https://1.bp.blogspot.com/-5Y7HOgnrTqc/YJsURL6bR7I/AAAAAAAAImg/KcKhVIjMfPkMCxOCIDGj7jLnUQXlqmiiACLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B2_1.jpg
+image4: https://1.bp.blogspot.com/-xAvTgCmCP-c/YJsURMsBw7I/AAAAAAAAImc/N3AsIGghDaEOYaUvnwV2tU4OsXlcEooJACLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B4_1.jpg
+image5: https://1.bp.blogspot.com/-q_7cTOk_ADw/YJsURjViB9I/AAAAAAAAImk/aNrrRo35WfM0x4AOqRHTj_-A4bPDLBMFwCLcBGAsYHQ/s1920/camiseta%2Bles%2Bpaul%2B5_1.jpg
 image6: https://1.bp.blogspot.com/-Yr7MTF9oesY/YJmWR_c_S5I/AAAAAAAAAqA/D4XNQ9VnuCIMCTFGq7QB3IyB9lbZQ6rygCNcBGAsYHQ/s1920/camisetas%2Bles%2Bpaul%2B6.jpg
 ---
 # Les Paul - Camiseta Bordada à Mão (Preta ou Branca - M)
@@ -32,3 +32,7 @@ Camiseta manga curta unissex, com gola redonda costurada com pesponto, deixando 
 - O tempo de produção da peça pode variar de acordo com a demanda da artista. Por isso, se esse é um fator importante para sua compra, consulte-nos em ruidospodcast@gmail.com ou nas nossas redes sociais e peça informações sobre quanto tempo as peças estão demorando para serem finalizadas naquela semana.
 - Mesmo que você não faça uma consulta prévia, assim que a compra for finalizada nós entraremos em contato para avisar qual a previsão para a preparação da peça e envio.
 - Por se tratar de uma peça feita individualmente, é possível encontrar pequenas diferenças em relação à foto de ilustração, como variações de tonalidades das linhas, que dependem do lote de nossos fornecedores. No entanto, nós garantimos a qualidade e a maior fidelidade possível em cada peça. Qualquer dúvida, entre em contato conosco pelo ruidospodcast@gmail.com ou pelas nossas redes sociais!
+
+---
+
+## Ao efetuar a compra, entraremos em contato para a escolha da cor
